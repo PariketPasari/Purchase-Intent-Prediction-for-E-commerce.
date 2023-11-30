@@ -79,5 +79,3 @@ During this predictive modeling phase, we employed Logistic Regression to foreca
 
 5. **Diversified Feature Set:**
    Acquire additional dimensions and features, such as page-level information, for a more comprehensive analysis.
-
-This project provides valuable insights into online shopping behavior, emphasizing actionable findings for marketing strategies and laying the foundation for future enhancements to the predictive model.
