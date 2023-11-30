@@ -20,12 +20,18 @@ Engagement Metrics Analysis
 - **Effective Traffic Sources:** traffic Type 5: This traffic source stands out as the most significant contributor to sessions leading to purchases.
 Trend Analysis over Time
 - **Seasonal Trends:** There is a noticeable surge in purchases during May and November. The data suggests that these months are critical periods for implementing targeted marketing and sales initiatives.
-- 
-### Visualizations:
-**Monthly Visitor Trends:** Highlighting the influx of visitors during specific months.
-2. **Visitor Type Distribution:** Comparing the frequency of returning and new visitors.
-3. **Page Engagement vs. Purchase:** Illustrating the correlation between page-related engagement and the likelihood of a purchase.
-4. **Weekend vs. Weekday Purchase Behavior:** Analyzing how purchase behavior varies between weekends and weekdays.
+  
+### Visualizations Findings:
+- Significant visitor traffic is observed in May, November, and March, warranting further analysis
+-  Most visitors are returning visitors who visit the site multiple times.
+- Most visitors are of the Returning Visitor type.
+- Weekday traffic is higher than weekend traffic, prompting further analysis.
+- Revenue data is highly imbalanced, with 'false' as the most occurring entry.
+- Plots show increased new visitors in May, November, and December, with a surge in overall traffic during November, May, March, and December.
+- Returning Visitors have more sessions, but the percentage of buyers among them is lower compared to non-buyers. New Visitors show a similar purchase rate to non-buyers, suggesting higher engagement.
+- Sessions resulting in purchases have higher average views on Product-Related pages, indicating the significance of engagement in driving purchases.
+- Average time spent on Product-Related pages is higher for buyers, supporting the trend observed in page view counts.
+- Although total Buyer sessions are lower on weekends, the percentage of purchases is higher, suggesting higher purchase completion rates on weekends.
 
 ### Feature Selection
 Recursive Feature Elimination (RFE) identified relevant features, reducing dimensionality and improving model interpretability.
