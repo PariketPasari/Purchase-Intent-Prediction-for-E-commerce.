@@ -1,4 +1,4 @@
-# Online Shopping Intention Analysis
+# Purchase Intent Prediction for E-commerce.
 
 ## Problem Statement
 E-commerce platforms face the challenge of accurately predicting user purchasing intent. Understanding the factors influencing whether a visitor will make a purchase or not is crucial for targeted marketing. This project aims to analyze user interactions on an online shopping platform and build a predictive model to identify potential buyers.
